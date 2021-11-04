@@ -1,19 +1,19 @@
 
 <p align="left"> 
-  Olá, meu nome é Mario Pereira. Sou <strong>Desenvolvedor de Front-End</strong>.<br>
-  Sou de Santos/SP - Brasil. ===> {Passionate about Technology / coding is everything}
+  Helo!! I'm Mario Pereira. I'm <strong>Front-End Developer!</strong>.<br>
+  I'm from Santos/SP - Brasil. ===> {Passionate about Technology / coding is everything}
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS e JavaScript</strong>
+  🦄 Languages: <strong>HTML, CSS and JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub</strong>
+  💼 Tools: <strong>VSCode, Git and GitHub</strong>
 </p>
 
 <p align="left">
-  💌 Quer entrar em contato comigo? Só chamar!! ⤵️
+  💌 Want to talk to me?? Get it on! Just choose!! ⤵️
 </p>
 
 <p align="left">
@@ -29,4 +29,8 @@
   <a href="https://www.instagram.com/patricia__mario/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/patricia__mario/"/>
  </a>
-</p>  
+</p>
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
