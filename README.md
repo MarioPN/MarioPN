@@ -1,29 +1,34 @@
-# Welcome!
 
- 
+<p align="left"> 
+  Olá, meu nome é Mario Pereira. Sou <strong>Desenvolvedor de Front-End</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-## I'm Mario Pereira!
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS e JavaScript</strong>
+</p>
 
- 
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Git e GitHub</strong>
+</p>
 
-:computer: I'm Full Stack Developer studdent!
+<p align="left">
+  💌 Quer entrar em contato comigo? Só chamar!! ⤵️
+</p>
 
-:house_with_garden: I’m from Brazil.
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-:books: I’m currently learning everything. I love technology and coding
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-:outbox_tray: 2021 Goals: create new projects and find a new job.
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
- 
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mario.pereira.98"/></a>
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarioPN)](https://github.com/MarioPN)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-pereira1/)](https://www.linkedin.com/in/mario-pereira1/)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
