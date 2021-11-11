@@ -1,7 +1,7 @@
 
 <p align="left"> 
   Helo!! I'm Mario Pereira. I'm <strong>Front-End Developer!</strong>.<br>
-  I'm from Santos/SP - Brasil. ===> {Passionate about Technology / coding is everything}
+  I'm from Santos/SP - Brazil. ===> {Passionate about Technology / coding is everything}
 </p>
 
 <p align="left">
